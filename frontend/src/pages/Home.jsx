@@ -35,7 +35,7 @@ const Home = () => {
         />
         {/* Overlay for better text visibility if you add any */}
         <div className="absolute inset-0 bg-black/20 flex flex-col justify-center items-center text-white">
-          <h1 className="text-5xl md:text-7xl font-light tracking-tighter mb-4">LUMINA</h1>
+          <h1 className="text-5xl md:text-7xl font-light tracking-tighter mb-4">PalBazaar</h1>
           <p className="text-lg md:text-xl font-light opacity-90 tracking-widest uppercase">Illuminating Your Space</p>
         </div>
       </div>

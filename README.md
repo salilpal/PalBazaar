@@ -1,8 +1,8 @@
-# Lumina
+# PalBazaar
 
 > **Status:** 🚧 In Development
 
-**Lumina** is an e-commerce platform dedicated to brightening up spaces with a wide variety of indoor and outdoor lighting solutions. Currently in the development phase, this project aims to provide a seamless shopping experience for modern lighting fixtures.
+**PalBazaar** is an e-commerce platform dedicated to brightening up spaces with a wide variety of indoor and outdoor lighting solutions. Currently in the development phase, this project aims to provide a seamless shopping experience for modern lighting fixtures.
 
 ## 📖 Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## About
 
-Lumina is designed to be a one-stop-shop for lighting needs, ranging from ambient indoor lamps to robust outdoor security lights. The project is currently under active construction as we build out the product catalog, user authentication, and payment integration.
+PalBazaar is designed to be a one-stop-shop for lighting needs, ranging from ambient indoor lamps to robust outdoor security lights. The project is currently under active construction as we build out the product catalog, user authentication, and payment integration.
 
 ## ✨ Features (Planned/Implemented)
 
@@ -55,8 +55,8 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/salilpal/lumina.git](https://github.com/salilpal/lumina.git)
-cd lumina
+git clone [https://github.com/salilpal/PalBazaar.git](https://github.com/salilpal/PalBazaar.git)
+cd PalBazaar
 ```
 
 2. **Install dependencies:**

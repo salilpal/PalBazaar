@@ -155,7 +155,7 @@ const Login = () => {
         {/* Dynamic Sign Up Prompt */}
         {!emailExists && form.email && form.email.includes("@") && !checking && (
           <div className="mt-6 p-4 bg-blue-50 border border-blue-100 rounded-lg text-sm text-center text-blue-700 animate-pulse">
-            New to Lumina?{" "}
+            New to PalBazaar?{" "}
             <Link to="/register" className="font-bold underline">
               Create an account
             </Link>

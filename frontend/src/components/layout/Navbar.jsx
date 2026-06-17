@@ -44,7 +44,7 @@ const Navbar = () => {
           to="/" 
           className="text-2xl font-light tracking-[0.2em] text-gray-900"
         >
-          Lumina
+          PalBazaar
         </Link>
 
         {/* Center: Search Bar */}

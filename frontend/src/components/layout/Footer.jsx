@@ -14,7 +14,7 @@ const Footer = () => {
           {/* Brand Column */}
           <div className="col-span-1 md:col-span-1">
             <Link to="/" className="text-2xl font-light tracking-[0.2em] text-gray-900">
-              Lumina
+              PalBazaar
             </Link>
             <p className="mt-6 text-gray-500 leading-relaxed text-sm">
               Crafting atmospheres through light. Our curated collections bring architectural elegance and modern warmth to every space.
@@ -70,7 +70,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-50 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-[10px] uppercase tracking-widest text-gray-400">
-            &copy; {currentYear} Lumina Lighting. All rights reserved.
+            &copy; {currentYear} PalBazaar. All rights reserved.
           </p>
           <div className="flex gap-8">
             <span className="text-[10px] uppercase tracking-widest text-gray-400">Gurugram, India</span>
